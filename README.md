@@ -28,6 +28,3 @@ Sí, soy nuevo… pero soy de los que no paran hasta que las cosas queden perfec
 - Aprender cosas nuevas todos los días aunque me explote la cabeza
 
 > “No soy experto… pero soy el más terco aprendiendo que vas a conocer.”
-
-### 🛠 Lo que estoy aprendiendo ahora mismo (Noviembre 2025)
-```text
