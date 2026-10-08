@@ -34,6 +34,10 @@ API REST con un banco de ejercicios de programación para repasar antes de exám
 Utilidades en Bash para Android/Termux: monitor y registro de batería, organizador de archivos del teléfono (con modo simulación por defecto) e inventario del almacenamiento.
 `Bash` · `Termux`
 
+### [Plataformas1](https://github.com/NickPro5677/Plataformas1)
+Mi primer juego de plataformas en GameMaker: movimiento con teclado, salto, gravedad, colisiones píxel a píxel y reaparición al caer fuera de la sala. Código GML comentado en español.
+`GameMaker` · `GML` · `Videojuegos`
+
 ### Proyectos web (HTML, CSS y JavaScript puro)
 | Proyecto | Qué hace |
 |---|---|
