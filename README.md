@@ -39,11 +39,22 @@ Mi primer juego de plataformas en GameMaker: movimiento con teclado, salto, grav
 `GameMaker` · `GML` · `Videojuegos`
 
 ### Proyectos web (HTML, CSS y JavaScript puro)
-| Proyecto | Qué hace |
-|---|---|
-| [Calculadora digital](https://github.com/NickPro5677/Calculadora-digital) | Calculadora con tema claro/oscuro, historial y soporte de teclado |
-| [Generador de contraseñas](https://github.com/NickPro5677/Generador-de-contrase-as) | Contraseñas configurables (longitud, tipos de caracteres) con indicador de fuerza y copiar al portapapeles |
-| [To-Do List](https://github.com/NickPro5677/To-Do-List) | Lista de tareas que se guarda en el navegador (localStorage) |
+| Proyecto | Qué hace | Demo |
+|---|---|---|
+| [Calculadora digital](https://github.com/NickPro5677/Calculadora-digital) | Calculadora con tema claro/oscuro, historial y soporte de teclado | [▶ Probar](https://nickpro5677.github.io/Calculadora-digital/) |
+| [Generador de contraseñas](https://github.com/NickPro5677/Generador-de-contrase-as) | Contraseñas seguras (`crypto.getRandomValues`) configurables, con indicador de fuerza y copiar al portapapeles | [▶ Probar](https://nickpro5677.github.io/Generador-de-contrase-as/) |
+| [To-Do List](https://github.com/NickPro5677/To-Do-List) | Lista de tareas que se guarda en el navegador (localStorage) | [▶ Probar](https://nickpro5677.github.io/To-Do-List/) |
+
+---
+
+## 🇬🇧 In English
+
+I'm a Computer Engineering student at UNEG in Puerto Ordaz, Venezuela. I build most of my projects on an Android phone with Termux: Python and FastAPI APIs, local network monitoring tools, Bash automation and small games in GameMaker. I'm interested in defensive security, AI and backend development, and I'm open to internships and freelance work.
+
+- **fnf-agent** – local platform to run and evaluate game-playing agents (Python + Node.js + MCP).
+- **wifi-zero** – home network monitoring from Android without root (Python standard library, tests, web dashboard).
+- **api-ejercicios** – REST API for practicing programming exercises (FastAPI + SQLite, 40 tests).
+- Live demos: [Calculator](https://nickpro5677.github.io/Calculadora-digital/) · [Password generator](https://nickpro5677.github.io/Generador-de-contrase-as/) · [To-Do List](https://nickpro5677.github.io/To-Do-List/)
 
 ---
 
